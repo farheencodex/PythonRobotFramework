@@ -1,0 +1,11 @@
+TC_ID,Title,Status,Priority,Module
+TC_001,Verify Login with valid credentials,Pass,P0,Login
+TC_002,Verify Login with invalid password,Pass,P0,Login
+TC_003,Verify Forgot Password link,Fail,P1,Login
+TC_004,Verify Search functionality,Pass,P0,Search
+TC_005,Verify Search with no results,Not Run,P2,Search
+TC_006,Verify Add to Cart,Pass,P0,Cart
+TC_007,Verify Remove from Cart,Fail,P1,Cart
+TC_008,Verify Checkout flow,Not Run,P0,Checkout
+TC_009,Verify Order confirmation,Pass,P1,Checkout
+TC_010,Verify User Profile update,Not Run,P2,Profile

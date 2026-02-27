@@ -1,0 +1,12 @@
+# ============================================================
+# Boodmo Robot Framework - Python Dependencies
+# ============================================================
+# Install: pip install -r requirements.txt
+# ============================================================
+
+robotframework==7.1.1
+robotframework-seleniumlibrary==6.6.1
+robotframework-requests==0.9.7
+robotframework-jsonlibrary==0.5
+webdriver-manager==4.0.2
+openpyxl==3.1.5
